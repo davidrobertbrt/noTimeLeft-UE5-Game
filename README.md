@@ -14,5 +14,12 @@ Developed with Unreal Engine 5.3
 - Shift <=> Walk mode
 - P <=> Pause menu
 
+## Credits
+
+- Matt Aspland for animation conversion from Miaxmo to UE4 Character
+- Assets from free3d.com and Military Weapons Dark (package from UE Marketplace)
+- Photo by https://unsplash.com/@thdef (Tom Def)
+- Sounds from freesound.org
+
 
 
