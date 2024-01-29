@@ -17,9 +17,9 @@ Developed with Unreal Engine 5.3
 ## Credits
 
 - Matt Aspland for animation conversion from Miaxmo to UE4 Character
-- Assets from free3d.com and Military Weapons Dark (package from UE Marketplace)
+- Assets from free3d.com and Military Weapons Dark (https://www.unrealengine.com/marketplace/en-US/product/military-weapons-dark)
 - Photo by https://unsplash.com/@thdef (Tom Def)
 - Sounds from freesound.org
-
+- Effects from Infinity Blade: Effects (https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-effects)
 
 
